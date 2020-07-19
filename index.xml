@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kenny Ohata</title>
+    <link>https://kennyohata.github.io/</link>
+    <description>Recent content on Kenny Ohata</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 10 Jun 2020 11:00:59 -0400</lastBuildDate>
+    
+	<atom:link href="https://kennyohata.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Project 2: Predicting Housing Prices</title>
+      <link>https://kennyohata.github.io/post/project-2/</link>
+      <pubDate>Wed, 10 Jun 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://kennyohata.github.io/post/project-2/</guid>
+      <description>Summary:
+ Creative feature engineering Advanced regression techniques with linear regression Utilize root-mean-squared-error (RMSE) between the log of the predicted value and log of the observed saleprice Predict: Use machine learning models to predict the value of the SalePrice variable        Link to Github Repository</description>
+    </item>
+    
+    <item>
+      <title>Project 1: Titanic Survival Predictor</title>
+      <link>https://kennyohata.github.io/post/project-1/</link>
+      <pubDate>Tue, 09 Jun 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://kennyohata.github.io/post/project-1/</guid>
+      <description>Do a statistical analysis of how some group of people was survived more than others. Do an exploratory data analysis(EDA) of titanic with visualizations and storytelling. Predict: Use machine learning classification models to predict the chances of passengers survival.    Link to Github Repository</description>
+    </item>
+    
+    <item>
+      <title>Project 3: Maze Runner Pathfinder</title>
+      <link>https://kennyohata.github.io/post/project-3/</link>
+      <pubDate>Sun, 11 Jun 2017 11:13:32 -0400</pubDate>
+      
+      <guid>https://kennyohata.github.io/post/project-3/</guid>
+      <description>Using the breadth first search aglorith, construst a maze and find the optimal route to the end point.
+&amp;ndash;
+  Link to Github Repository</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://kennyohata.github.io/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kennyohata.github.io/contact/</guid>
+      <description>For any inquiries, pelase fill out the form below. Also feel free to reach out and add me on Linkedin as well.
+Your Name Email Address An email address is required.  Message   </description>
+    </item>
+    
+    <item>
+      <title>Resume</title>
+      <link>https://kennyohata.github.io/resume/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kennyohata.github.io/resume/</guid>
+      <description>Kenny Ohata&amp;rsquo;s Resume</description>
+    </item>
+    
+  </channel>
+</rss>
